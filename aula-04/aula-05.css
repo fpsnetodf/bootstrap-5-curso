@@ -1,0 +1,10 @@
+.text-success-100{
+    display: inline-flex;
+    color: hsl(120, 94%, 49%);
+    border: 1px solid blueviolet;
+    border-radius: 30%;
+}
+.text-success-100:hover{
+    background-color: rgb(200, 255, 0);
+    color: rgb(229, 196, 196);
+}
